@@ -7,7 +7,6 @@ package com.example.util;
  * @author advance
  *
  */
-import java.sql.*;
 
 public class IPDeal {
 	/**
